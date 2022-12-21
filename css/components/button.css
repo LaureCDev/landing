@@ -1,0 +1,10 @@
+.btn-orange{
+	background-color: #e63b2d; /*#f85a3e*/
+	color: #e1e6e1;
+	font-weight: bold;
+	padding: 15px 20px;
+	width: 120px; 
+	height: 25px;
+	border-radius: 4px;
+	font-family: Roboto, Helvetica, sans-serif;
+}
